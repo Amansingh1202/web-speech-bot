@@ -1,0 +1,53 @@
+.joke-button{
+    margin: 2% 0 0 37%;
+    color:white;
+    background-color:blueviolet;
+    font-weight: 500;
+    font-size: 1.1em;
+    padding: 3px 6px;
+    border-radius: 4px;
+    border:none;
+    outline:none;
+  }
+  
+  .joke-button:hover{
+    cursor: pointer;
+    border:none;
+    outline:none;
+    background-color: darkcyan;
+    color:black;
+  }
+
+  .joke-content{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1.2em;
+    color:darkblue;
+  }
+
+  .robot-image{
+    display: block;
+    margin: 0 auto;
+    }
+
+    #voices{
+        margin-left: 33%;
+        margin-top: 1%;
+        color:white;
+        background-color: darkblue;
+        padding: 4px 8px;
+        font-size: 1.1em;
+        border:none;
+        outline:none;
+        border-radius: 3px;
+      }
+      .or-word{
+        color:darkgreen;
+        font-size: 1.4em;
+        margin:0 10px;
+      }
+      
+      .key-j{
+        font-size: 1.1em;
+        color:brown;
+      }
